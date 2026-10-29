@@ -1,2 +1,2 @@
-# NexTech-
+# NexTech
 Organização de Tecnologia 
